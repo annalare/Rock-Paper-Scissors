@@ -1,0 +1,25 @@
+* {
+  background-color: rgb(233, 138, 138);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+button {
+  color: beige;
+  margin: 10px 10px;
+  font-size: 15px;
+  font-weight: 700;
+  width: 150px;
+  height: 40px;
+  background-color: rgb(189, 152, 223);
+  border-radius: 20px;
+  border: 10px rgb(176, 59, 199);
+}
+h2 {
+  color: beige;
+}
